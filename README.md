@@ -4,14 +4,20 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/
 - This repository: https://github.com/YiweiWang89/YiweiWang_dataviz_portfolio
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at Carnegie Mellon University. Here, I’ll be sharing the projects and assignments I create throughout the semester.
+
+As the course progresses, this portfolio will include my weekly assignments, critiques, workshop design, and a final project. My goal is to build a collection that not only demonstrates technical skills, but also highlights creativity and thoughtful communication through data visualization.
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Yiwei Wang, and I’m currently pursuing the Master of Information Systems Management – Business Intelligence & Data Analytics (MISM-BIDA) program at Carnegie Mellon University. My academic background is in mathematics and analytics, which has trained me to think logically, work with data rigorously, and build models that uncover patterns. At the same time, I’ve always been drawn to the creative side of problem solving—whether it’s through design, storytelling, or finding new ways to communicate complex ideas.
+
+This mix of analytical training and creative curiosity is what makes me especially interested in data visualization. I see visualization as a bridge: it connects the technical world of data with the human need for understanding and storytelling. I enjoy experimenting with different visual formats to highlight trends, comparisons, and narratives that might otherwise remain hidden in spreadsheets or statistical models.
+
+Outside of coursework, I like exploring design and art, which often inspire the way I approach my projects. I believe that the best visualizations are not just accurate but also engaging, accessible, and memorable. In my work, I hope to create visual stories that support better decision-making and make data feel more approachable to everyone.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 

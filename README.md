@@ -1,9 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
+## Telling Stories with Data
 - Web page URL: https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/
 - This repository: https://github.com/YiweiWang89/YiweiWang_dataviz_portfolio
 
@@ -20,17 +17,16 @@ This mix of analytical training and creative curiosity is what makes me especial
 Outside of coursework, I like exploring design and art, which often inspire the way I approach my projects. I believe that the best visualizations are not just accurate but also engaging, accessible, and memorable. In my work, I hope to create visual stories that support better decision-making and make data feel more approachable to everyone.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+This semester, I want to push myself to:
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Make design choices that feel intentional, not random—so the use of color, layout, and labels actually helps people understand the data
+2. Get better at spotting the strengths and weaknesses in visualizations, both mine and others’, and using that feedback to improve
+3. Try out new tools and formats for telling stories with data, not just default charts
+4. Build visuals that don’t just look nice, but also highlight the so what behind the data
 
-or...
+I also see this class as a place to experiment and figure out my own “voice” in visualization—how I balance being analytical with being creative.
 
-- List item #1
-- List item #2
-- List item #3
+After graduation, I’d like to work in areas where I can use data not only to analyze but also to communicate and influence, whether in product, consulting, or strategy roles. I believe the skills from this course will help me stand out—by taking complex data and turning it into clear, engaging visuals that people can actually understand.
 
 # Portfolio
 

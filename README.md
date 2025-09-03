@@ -29,7 +29,6 @@ I also see this class as a place to experiment and figure out my own “voice”
 After graduation, I’d like to work in areas where I can use data not only to analyze but also to communicate and influence, whether in product, consulting, or strategy roles. I believe the skills from this course will help me stand out—by taking complex data and turning it into clear, engaging visuals that people can actually understand.
 
 # Portfolio
-
 ## Data Visualization Critique
 ### Critique 1: [Valentine’s Day Candy Map](ValentineDayCandyCritique)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `ValentineDayCandyCritique.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -48,7 +47,9 @@ Here it might be helpful to include a high-level description of your final proje
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+
+## Assignment 3&4: [Critique by Design](critique-by-design)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
 
 ### Changing text
 

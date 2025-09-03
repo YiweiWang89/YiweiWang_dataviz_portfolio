@@ -31,11 +31,15 @@ After graduation, I’d like to work in areas where I can use data not only to a
 # Portfolio
 ## Data Visualization Critique
 ### Critique 1: [Valentine’s Day Candy Map](ValentineDayCandyCritique)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `ValentineDayCandyCritique.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+A fun but cluttered Valentine’s Day candy map—my critique highlights missing context and suggests clearer labels, categories, and data transparency.  
+### Critique 2: ...
+...
 
 ## Assignment/Workshop
 ### Assignmen 1
 Future assignment or worshop will be shown here.
+### Assignment 2
+...
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
@@ -45,7 +49,7 @@ Here it might be helpful to include a high-level description of your final proje
 
 ---
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)

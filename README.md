@@ -30,11 +30,11 @@ After graduation, I’d like to work in areas where I can use data not only to a
 
 # Portfolio
 
-## Data Visualization Critque
-### Critque 1: Valentine's Day  [Visualizing overnment Debt](visualizing-government-debt)
+## Data Visualization Critique
+### Critique 1: [Valentine’s Day Candy Map](ValentineDayCandyCritique)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment
+## Assignment/Workshop
 Future assignment or worshop will be shown here.
 
 ## Final project

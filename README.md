@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 ## Telling Stories with Data
 - Web page URL: https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/
@@ -29,6 +29,7 @@ I also see this class as a place to experiment and figure out my own “voice”
 After graduation, I’d like to work in areas where I can use data not only to analyze but also to communicate and influence, whether in product, consulting, or strategy roles. I believe the skills from this course will help me stand out—by taking complex data and turning it into clear, engaging visuals that people can actually understand.
 
 # Portfolio
+(This section is still in progress and will be refined as the course goes on.）
 ## Data Visualization Critique
 ### Critique 1: [Valentine’s Day Candy Map](ValentineDayCandyCritique)
 A fun but cluttered Valentine’s Day candy map—my critique highlights missing context and suggests clearer labels, categories, and data transparency.  

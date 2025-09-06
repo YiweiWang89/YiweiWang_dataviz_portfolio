@@ -1,4 +1,13 @@
-| [home page](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+<p align="center">
+
+[![Home](https://img.shields.io/badge/-Home-blue)](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/)  
+[![Data Viz Examples](https://img.shields.io/badge/-DataViz-green)](dataviz-examples)  
+[![Critique by Design](https://img.shields.io/badge/-Critique-orange)](critique-by-design)  
+[![Final Project I](https://img.shields.io/badge/-Project%20I-red)](final-project-part-one)  
+[![Final Project II](https://img.shields.io/badge/-Project%20II-red)](final-project-part-two)  
+[![Final Project III](https://img.shields.io/badge/-Project%20III-red)](final-project-part-three)
+
+</p>
 
 ## Telling Stories with Data
 - Web page URL: https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/

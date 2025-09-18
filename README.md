@@ -37,10 +37,8 @@ A fun but cluttered Valentine’s Day candy map—my critique highlights missing
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
 
 ## Assignment/Workshop
-### Assignmen 1
-Future assignment or worshop will be shown here.
-### Assignment 2
-...
+### [data viz examples](dataviz-examples)
+[Visualizing government Debt](visualizing-government-debt)
 
 ## Final project
 

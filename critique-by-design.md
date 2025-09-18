@@ -69,9 +69,11 @@ Dot marks are clear, but reliance on hue alone may be tough for some viewers.
 Small labels/legend can be hard to read on smaller screens.
 
 **Overall observations**
+
 What stood out to me about this visualization is that it’s eye-catching and easy to engage with at first, especially since people naturally want to check their own birthday. The heatmap design does a good job of showing broad seasonal trends like the September peak and the holiday dips, which makes the overall message fairly intuitive. However, many of the issues we discussed earlier also show up here: the usefulness feels limited because it mainly answers a novelty question without deeper insights, the completeness is lacking since it ignores weekday or holiday effects, and the legend makes perceptibility harder than it should be. Even though the data is accurate, the way it’s averaged hides variation across years, and the tooltip overloads readers with too much detail at once. Aesthetically it’s clean, but the dense wall of color is tiring, and in terms of engagement it doesn’t sustain interest beyond the initial curiosity. Overall, it works well as a quick visual hook but struggles to provide clarity and context that would make it truly informative.
 
 **Focus for the redesign**
+
 In my redesign, I want to focus on making the visualization more complete and easier to interpret by adding context that was missing in the original. I plan to normalize the data by year to avoid distortion from population changes, and highlight weekends and major holidays since they strongly affect birth counts. I also want to improve the legend and color scale so differences are clearer, and label the top and bottom dates directly instead of leaving them hidden in the colors. Beyond the heatmap, I’m also interested in experimenting with a bar chart or calendat that may gives more information or better visual. I’m excited to compare both designs and see whether a line view or a hybrid approach communicates the key story more clearly.
 
 ## Step three: Sketch a solution

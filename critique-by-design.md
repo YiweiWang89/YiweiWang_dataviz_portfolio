@@ -1,15 +1,22 @@
 | [home page](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Critique by Redesign
+#### Brief Introduction
+In this assignment I selected a public visualization about U.S. birthdays. Using the 1994–2014 U.S. daily births dataset, my goals were to 
+(1) evaluate the original chart on usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement; 
+(2) identify concrete pain points; 
+(3) produce a clearer redesign that communicates the main patterns without extra explanation.
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+## The visualization
+### Original graphic：How Common Is Your Birthday? — DailyViz (2016)
+**Link:** http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+**Data source**：MakeoverMonday Week 26 dataset: https://data.world/makeovermonday/2021w26
+(Compiled from the U.S. National Center for Health Statistics, 1994–2003, and the U.S. Social Security Administration, 2004–2014; also cited via FiveThirtyEight/DailyViz.)
 
-## Step one: the visualization
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+**Why I selected this visualization ？**
+I chose this piece because it is instantly relatable—everyone has a birthday—yet it raises substantive design questions worth critiquing. The calendar heatmap format is engaging and encourages exploration across months and days, but it also creates challenges around scale interpretation, visual density, and how readers compare days within and across months. The topic combines broad public interest with credible, well-scoped data (1994–2014 U.S. daily births), making it ideal for a critique-by-redesign exercise: the story is simple enough to evaluate quickly, but the presentation choices (color scale, labeling, ranking, and layout) leave room for improvement and discussion about clarity and readability.
+ 
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._

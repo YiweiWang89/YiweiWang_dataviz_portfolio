@@ -33,8 +33,8 @@ After graduation, I’d like to work in areas where I can use data not only to a
 ## Data Visualization Critique
 ### Critique 1: [Valentine’s Day Candy Map](ValentineDayCandyCritique)
 A fun but cluttered Valentine’s Day candy map—my critique highlights missing context and suggests clearer labels, categories, and data transparency.  
-### Critique 2: ...
-...
+### Critique 2: [Critique by Design](critique-by-design)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
 
 ## Assignment/Workshop
 ### Assignmen 1

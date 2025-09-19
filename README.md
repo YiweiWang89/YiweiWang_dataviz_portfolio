@@ -36,7 +36,8 @@ A fun but cluttered Valentine’s Day candy map—my critique highlights missing
 ### Critique 2: [Critique by Design](critique-by-design)
 I critiqued a data visualization about "How popular your birthday is" and then created a redesigned version.  
 
-## [Data Visualization Assignment](dataviz-examples)
+## Visualization Examples
+### [Assignment/Examples/Workshop](dataviz-examples)
 
 ## Final project
 

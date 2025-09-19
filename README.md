@@ -34,10 +34,9 @@ After graduation, I’d like to work in areas where I can use data not only to a
 ### Critique 1: [Valentine’s Day Candy Map](ValentineDayCandyCritique)
 A fun but cluttered Valentine’s Day candy map—my critique highlights missing context and suggests clearer labels, categories, and data transparency.  
 ### Critique 2: [Critique by Design](critique-by-design)
+I critiqued a data visualization about "How popular your birthday is" and then created a redesigned version.  
 
-
-## Assignment/Workshop
-### [data viz examples](dataviz-examples)
+## [Data Visualization Assignment](dataviz-examples)
 
 ## Final project
 

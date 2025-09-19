@@ -138,7 +138,7 @@ Is the Calendar sheet useful? Why?
 
 Is the Monthly Summary useful? Does it help you read the calendar faster??
 
-****Interview 1 — student, mid-20s，BIDA Program**
+**Interview 1 — student, mid-20s，MISM-BIDA Program**
 His eyes went straight to the warm area in September, which felt right for the topic, but they needed a second to confirm the legend and the zero point. The main story they got was “late summer is busier; major holidays are quieter,” which matched what I expected. He found the grid clean but asked to remove markers on dots and to delete impossible dates like Feb 30–31 to avoid second-guessing. The ▲/▼ labels were helpful only for the most extreme days; otherwise color was enough. They preferred the two-color diverging scale over a single hue because it was easier to tell “above” vs “below.” For tooltips, he wanted to know for more context like holidays . The Calendar sheet felt fine but not necessary for this task, while the Monthly Summary bar was “a quick way to get the pattern before scanning the dots.” If they had to keep one thing, it would be the dot grid with the diverging colors.
 
 **Interview 2 — student, mid-20s, MSPPM program**

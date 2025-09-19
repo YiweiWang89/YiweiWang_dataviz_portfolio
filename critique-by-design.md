@@ -116,38 +116,39 @@ A 12×31 dot grid where each dot = a day (month as rows, day as columns). Color 
 
 A simple diverging bar chart showing each month’s average %Δ from the median. It gives a quick “seasonality anchor” (summer/early-fall up, winter down) and pairs well alongside the dot grid to frame the big picture before readers explore day-level details.
 
-## Step four: Test the solution
+## Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+**Questions for interviewers**：
 
-Questions to ask (modify these for your own interviews): 
+What draws your eye first—is that the right thing? What gets lost?
 
-- Can you tell me what you think this is?
+What story do these sketches tell you?
 
-- Can you describe to me what this is telling you?
+Was anything surprising or confusing?
 
-- Is there anything you find surprising or confusing?
+Does anything feel too busy or too sparse? Where would you add/remove detail?
 
-- Who do you think is the intended audience for this?
+Do the ▲/+x.x% or ▼/−x.x% labels help or distract? Why?
 
-- Is there anything you would change or do differently?
+Are the colors comfortable and easy to tell apart? Is using two colors better than one?
 
-Results: 
+Do the labels feel helpful or noisy? Which details do you want on the dot/bar tooltip?
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Is the Calendar sheet useful? Why?
 
+Is the Monthly Summary useful? Does it help you read the calendar faster??
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+****Interview 1 — student, mid-20s，BIDA Program**
+His eyes went straight to the warm area in September, which felt right for the topic, but they needed a second to confirm the legend and the zero point. The main story they got was “late summer is busier; major holidays are quieter,” which matched what I expected. He found the grid clean but asked to remove markers on dots and to delete impossible dates like Feb 30–31 to avoid second-guessing. The ▲/▼ labels were helpful only for the most extreme days; otherwise color was enough. They preferred the two-color diverging scale over a single hue because it was easier to tell “above” vs “below.” For tooltips, he wanted to know for more context like holidays . The Calendar sheet felt fine but not necessary for this task, while the Monthly Summary bar was “a quick way to get the pattern before scanning the dots.” If they had to keep one thing, it would be the dot grid with the diverging colors.
+
+**Interview 2 — student, mid-20s, MSPPM program**
+
+This person first read the Monthly Summary bar—“instant overview”—then moved to the dot grid to compare specific days. The story they took away: clear seasonality (summer/early fall up, winter down). Nothing was confusing except the word “rank”—they asked if it was within the month or across all days. They felt the chart wasn’t too busy; if anything, on a small laptop they’d like slightly bigger dots. The ▲/▼ labels were useful but maybe put it in tooltip; otherwise distracting. Colors were comfortable and easy to interpret; the two-color scale centered at zero made direction clear. The Monthly Summary was very useful because it helped them read the calendar faster and compare months at a glance. 
 
 Synthesis: 
+Across both interviews, people understood the dot grid + diverging colors quickly and used the Monthly Summary as a fast entry point. For improvement, I need to add more context like the Holiday, and I need to cancel the unnecessary clutter ( markers under dots, impossible dates like Feb 30–31).
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Build the final solution
+## The final solution
 <div class='tableauPlaceholder' id='viz1758248109392' style='position: relative'><noscript><a href='#'><img alt='How Popular is Your Birthday? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HowPopularisYourBirthday_17582474460300&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HowPopularisYourBirthday_17582474460300&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HowPopularisYourBirthday_17582474460300&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
  var divElement = document.getElementById('viz1758248109392');                    
@@ -167,8 +168,12 @@ During sketching I explored three directions: a dot grid, a per-year calendar vi
 Overall, the final dashboard preserves the immediacy of the original idea while improving clarity, hierarchy, and context. Diverging colors communicate direction and magnitude; dots keep the layout light; tooltips explain notable days through holidays rather than extra symbols; and the monthly summary provides a clear seasonal frame. These changes respond directly to peer feedback and aim to leave readers with a concrete takeaway about when birthdays are more or less common across the year.
  
 ## References
-_List any references you used here._
+Stiles, M. (2016, September 17). How common is your birthday? This visualization might surprise you. The Daily Viz. https://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/
+
+Makeover Monday. (2021). How popular is your birthday? [Data set]. data.world. https://data.world/makeovermonday/2021w26
+
+Kriebel, A. (2021). Watch Me Viz – #MakeoverMonday 2021 Week 26: How Popular Is Your Birthday? [Video]. YouTube. https://www.youtube.com/watch?v=XW-U4rtWvr8
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Since the original data source doesn't include any holidays information, i use AI generated some holidays that may relect on the birth(I have less knowledge about US Holidays), so that my visualization include some helpful context.
 

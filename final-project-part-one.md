@@ -21,9 +21,10 @@ I plan to use these datasets together to tell a connected story. The aquaculture
 
 | Name | URL | Description |
 |------|-----|-------------|
-|   Aquaculture production (metric tons)   |  https://ourworldindata.org/grapher/aquaculture-farmed-fish-production   |    Annual aquaculture output by country/region.         |
-|   Capture fisheries vs aquaculture   |  https://ourworldindata.org/grapher/capture-fisheries-vs-aquaculture   |    Annual production for both capture and aquaculture by entity.         |
-|   Fish stocks: sustainable vs overexploited   |  https://ourworldindata.org/grapher/fish-stocks-within-sustainable-levels   |    Share of fish stocks within sustainable levels vs overexploited (regional series).         |
+| Aquaculture production (metric tons) | [Link](https://ourworldindata.org/grapher/aquaculture-farmed-fish-production) | Annual aquaculture output by country/region. |
+| Capture fisheries vs aquaculture | [Link](https://ourworldindata.org/grapher/capture-fisheries-vs-aquaculture) | Annual production for both capture and aquaculture by entity. |
+| Fish stocks: sustainable vs overexploited | [Link](https://ourworldindata.org/grapher/fish-stocks-within-sustainable-levels) | Share of fish stocks within sustainable levels vs overexploited (regional series). |
+
 
 # Method and medium
 I will use Tableau to create interactive charts and then embed them in Shorthand to build a scroll-based narrative. This combination allows me to present both the data analysis and the story flow in an engaging, interactive way.

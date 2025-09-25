@@ -1,13 +1,14 @@
 | [home page](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
-> As capture fisheries plateau, aquaculture fills the global seafood gap—especially in Asia—shifting the balance of supply and reframing sustainability questions for the next decade.
+Global seafood demand has more than doubled in the last fifty years, but the amount of fish we can catch from the wild has stayed about the same since the 1980s because of natural limits. To keep up with demand, aquaculture (farmed fish) has grown quickly and now plays a major role in the world’s seafood supply.
 
-Global seafood demand has more than doubled over the last half-century, but wild (capture) fisheries stopped growing decades ago due to biological limits. In response, aquaculture (farmed fish) has expanded rapidly and is now a central pillar of the world’s seafood supply.
+In this project, I want to show how aquaculture grew from something small into one of the main ways people get fish. I will highlight where this growth is happening (by region and country) and explain why it matters—not only because it helps reduce pressure on wild fish, but also because it brings new sustainability challenges.
 
-This project tells the story of how aquaculture rose from a niche practice to a dominant source of fish, where this growth happened (regional and country patterns), and why it matters (relieving pressure on overexploited wild stocks while introducing its own sustainability challenges). Using three complementary datasets, I’ll visualize the transition from capture to aquaculture, spotlight leading producers, and connect production trends to the share of fish stocks that are biologically sustainable vs. overexploited.
+> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+One Sentence summary:
+> Since wild fishing has stopped growing, aquaculture is filling the gap—mostly in Asia—and this shift is changing the seafood market and how we think about sustainability.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -39,4 +40,4 @@ Food and Agriculture Organization of the United Nations (2025) – with major pr
 Hannah Ritchie and Max Roser (2021) - “Fish and Overfishing” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/fish-and-overfishing' [Online Resource]
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI mainly to get a bit of help with technical refinements, catching small grammar mistakes, and brainstorming extra sketch ideas.

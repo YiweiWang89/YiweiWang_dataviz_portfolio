@@ -1,11 +1,13 @@
 | [home page](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
+> As capture fisheries plateau, aquaculture fills the global seafood gap—especially in Asia—shifting the balance of supply and reframing sustainability questions for the next decade.
+
 Global seafood demand has more than doubled over the last half-century, but wild (capture) fisheries stopped growing decades ago due to biological limits. In response, aquaculture (farmed fish) has expanded rapidly and is now a central pillar of the world’s seafood supply.
 
 This project tells the story of how aquaculture rose from a niche practice to a dominant source of fish, where this growth happened (regional and country patterns), and why it matters (relieving pressure on overexploited wild stocks while introducing its own sustainability challenges). Using three complementary datasets, I’ll visualize the transition from capture to aquaculture, spotlight leading producers, and connect production trends to the share of fish stocks that are biologically sustainable vs. overexploited.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Text here...
 

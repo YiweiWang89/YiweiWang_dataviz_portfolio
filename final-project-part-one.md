@@ -5,12 +5,16 @@ For my final project, I want to explore how art collections change over time and
 
 I also want to look at patterns across departments and mediums (painting, photography, design, etc.) and explore whether the time it takes for an artwork to be acquired after it was created has changed. My goal is to keep the analysis accessible—focusing on clear visuals that help people quickly see the patterns and understand the bigger story about representation and recognition in art.
 
-**One Sentence summary:**
+One Sentence summary: 
 > Museums don’t just collect art, they shape whose voices and perspectives are remembered, and the data shows how representation and recognition have shifted over time.
 
-> As a casual museum-goer, I want to quickly see if museums are more inclusive now than they used to be.
+User Stories:
+> As a casual museum visitor, I want to quickly see if museums are more inclusive now than they used to be.
+
 > As a student of art history, I want to connect museum acquisitions with larger cultural shifts.
+
 > As someone curious about representation, I want to know if female and international artists are being recognized more often.
+
 > As the project author, I want to practice turning a big, messy dataset into a story that’s clear and easy for anyone to follow.
 
 ## Initial sketches

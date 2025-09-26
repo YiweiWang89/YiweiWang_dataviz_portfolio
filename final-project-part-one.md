@@ -1,43 +1,28 @@
 | [home page](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
-Global seafood demand has more than doubled in the last fifty years, but the amount of fish we can catch from the wild has stayed about the same since the 1980s because of natural limits. To keep up with demand, aquaculture (farmed fish) has grown quickly and now plays a major role in the world’s seafood supply.
+For my final project, I want to explore how art collections change over time and what that says about representation in the art world. I’m especially interested in who gets collected (for example, differences between male and female artists) and how those patterns have shifted in recent decades. Museums and collections play a big role in shaping cultural memory, so it’s worth asking whether they are becoming more inclusive or still reflecting older imbalances.
 
-In this project, I want to show how aquaculture grew from something small into one of the main ways people get fish. I will highlight where this growth is happening (by region and country) and explain why it matters—not only because it helps reduce pressure on wild fish, but also because it brings new sustainability challenges.
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
+I also want to look at patterns across departments and mediums (painting, photography, design, etc.) and explore whether the time it takes for an artwork to be acquired after it was created has changed. My goal is to keep the analysis accessible—focusing on clear visuals that help people quickly see the patterns and understand the bigger story about representation and recognition in art.
 
 One Sentence summary:
-> Since wild fishing has stopped growing, aquaculture is filling the gap—mostly in Asia—and this shift is changing the seafood market and how we think about sustainability.
+> Museums don’t just collect art, they shape whose voices and perspectives are remembered, and the data shows how representation and recognition have shifted over time.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
-I use three public datasets from Our World in Data (FAO-based). The first contains aquaculture production by entity and year; the second includes both aquaculture and capture fisheries so I can directly compare and identify the crossover where aquaculture surpasses capture; the third reports shares of fish stocks that are biologically sustainable vs overexploited, grounding the sustainability angle.
+I use two public datasets from the MoMA Collection, available through Maven Analytics. The first is the Artworks table, which includes details like artwork title, date made, medium, department, and date acquired. The second is the Artists table, which records attributes such as artist name, gender, nationality, and life dates. These two tables can be linked through the Constituent ID field.
 
-I plan to use these datasets together to tell a connected story. The aquaculture and capture production data will show the historical rise of farmed fish and highlight the turning point where aquaculture surpassed capture. Breaking the data down by country and region will allow me to identify leading producers and regional differences in reliance on aquaculture. The sustainability dataset adds important context, linking the stagnation of capture fisheries to overexploitation of wild stocks. Together, these sources allow me to illustrate not only the growth of aquaculture but also why it matters for the future of global food security.
+I plan to use these datasets together to tell a story about representation in MoMA’s collection. The Artworks table provides the timeline of acquisitions and the context of which departments and mediums works belong to. The Artists table allows me to analyze who is represented, with a focus on gender and nationality. Together, they make it possible to track changes in gender balance across decades, compare departments, and calculate how long it took for different works to be acquired. This combination allows me to show not only the growth of MoMA’s collection but also the ways inclusion and recognition have shifted over time.
 
-| Name | URL | Description |
-|------|-----|-------------|
-| Aquaculture production (metric tons) | [Link](https://ourworldindata.org/grapher/aquaculture-farmed-fish-production) | Annual aquaculture output by country/region. |
-| Capture fisheries vs aquaculture | [Link](https://ourworldindata.org/grapher/capture-fisheries-vs-aquaculture) | Annual production for both capture and aquaculture by entity. |
-| Fish stocks: sustainable vs overexploited | [Link](https://ourworldindata.org/grapher/fish-stocks-within-sustainable-levels) | Share of fish stocks within sustainable levels vs overexploited (regional series). |
-
+Link: [https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection](https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection) 
 
 # Method and medium
 I will use Tableau to create interactive charts and then embed them in Shorthand to build a scroll-based narrative. This combination allows me to present both the data analysis and the story flow in an engaging, interactive way.
 
 ## References
-Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025) – processed by Our World in Data. “Aquaculture production” [dataset]. Food and Agriculture Organization of the United Nations (FAO), via World Bank, “World Development Indicators 122” [original data].  
-
-Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025) – processed by Our World in Data. “Aquaculture” [dataset]. Food and Agriculture Organization of the United Nations (FAO), via World Bank, “World Development Indicators 122” [original data].
-
-Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Biologically sustainable – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “SDG Indicators” [original data].
-
-Hannah Ritchie and Max Roser (2021) - “Fish and Overfishing” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/fish-and-overfishing' [Online Resource]
+Maven Analytics. The Museum of Modern Art (MoMA) Collection [Dataset]. Data Playground. Available at: https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection
 
 ## AI acknowledgements
 I used AI mainly to get a bit of help with technical refinements, catching small grammar mistakes, and brainstorming extra sketch ideas.

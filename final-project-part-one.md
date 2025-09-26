@@ -16,7 +16,12 @@ I use two public datasets from the MoMA Collection, available through Maven Anal
 
 I plan to use these datasets together to tell a story about representation in MoMA’s collection. The Artworks table provides the timeline of acquisitions and the context of which departments and mediums works belong to. The Artists table allows me to analyze who is represented, with a focus on gender and nationality. Together, they make it possible to track changes in gender balance across decades, compare departments, and calculate how long it took for different works to be acquired. This combination allows me to show not only the growth of MoMA’s collection but also the ways inclusion and recognition have shifted over time.
 
-Link: [https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection](https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection) 
+| Name         | URL |Description| 
+|--------------|-------------|---------------------| 
+| Artworks        | [Artworks.csv](Artworks.csv)      | Information about each artwork in the collection, including Object ID, Title, Artist ID, Date Made, Medium, Department, and Date Acquired.           | 
+| Artist       | [Artists.csv](Artists.csv)     |  Background details about each artist, such as Constituent ID, Name, Gender, Nationality, Birth Year, and Death Year.             |  
+
+Link to data source: [https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection](https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection) 
 
 # Method and medium
 I will use Tableau to create interactive charts and then embed them in Shorthand to build a scroll-based narrative. This combination allows me to present both the data analysis and the story flow in an engaging, interactive way.

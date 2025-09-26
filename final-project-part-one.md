@@ -18,8 +18,8 @@ I plan to use these datasets together to tell a story about representation in Mo
 
 | Name         | URL |Description| 
 |--------------|-------------|---------------------| 
-| Artworks        | [Artworks.csv](Artworks.csv)      | Information about each artwork in the collection, including Object ID, Title, Artist ID, Date Made, Medium, Department, and Date Acquired.           | 
-| Artist       | [Artists.csv](Artists.csv)     |  Background details about each artist, such as Constituent ID, Name, Gender, Nationality, Birth Year, and Death Year.             |  
+| Artworks        | [Artworks.csv (MoMA GitHub)](https://github.com/MuseumofModernArt/collection/blob/main/Artworks.csv)      | Information about each artwork in the collection, including Object ID, Title, Artist ID, Date Made, Medium, Department, and Date Acquired.           | 
+| Artist       | [[Artists.csv (MoMA GitHub)](https://github.com/MuseumofModernArt/collection/blob/main/Artists.csv)    |  Background details about each artist, such as Constituent ID, Name, Gender, Nationality, Birth Year, and Death Year.             |  
 
 Link to data source: [https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection](https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection) 
 

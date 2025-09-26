@@ -18,7 +18,7 @@ User Stories:
 > As the project author, I want to practice turning a big, messy dataset into a story that’s clear and easy for anyone to follow.
 
 ## Initial sketches
-![Project Sketch](Project-Sketch.jpg)
+![Project Sketch](Project-Sketch.png)
 
 # The data
 I use two public datasets from the MoMA Collection, available through Maven Analytics. The first is the Artworks table, which includes details like artwork title, date made, medium, department, and date acquired. The second is the Artists table, which records attributes such as artist name, gender, nationality, and life dates. These two tables can be linked through the Constituent ID field.

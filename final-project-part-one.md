@@ -5,6 +5,9 @@ For my final project, I want to explore how art collections change over time and
 
 I also want to look at patterns across departments and mediums (painting, photography, design, etc.) and explore whether the time it takes for an artwork to be acquired after it was created has changed. My goal is to keep the analysis accessible—focusing on clear visuals that help people quickly see the patterns and understand the bigger story about representation and recognition in art.
 
+**Project Structure (Story Arc)**
+![Project Structure](Project%20Structure.jpg)
+
 One Sentence summary: 
 > Museums don’t just collect art, they shape whose voices and perspectives are remembered, and the data shows how representation and recognition have shifted over time.
 

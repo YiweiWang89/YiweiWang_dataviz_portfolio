@@ -7,7 +7,6 @@ I also want to look at patterns across departments and mediums (painting, photog
 
 **Project Structure (Story Arc)**
 ![Project Structure](Project%20Structure.jpg)
-
 One Sentence summary: 
 > Museums don’t just collect art, they shape whose voices and perspectives are remembered, and the data shows how representation and recognition have shifted over time.
 

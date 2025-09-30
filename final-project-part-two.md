@@ -1,30 +1,29 @@
 | [home page](https://yiweiwang89.github.io/YiweiWang_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+# User research protocol
 
-# User research 
+## Target audience 
+My intended target audience includes people who interact with art and museums in different ways, since my project focuses on representation in museum collections. I want the story to resonate both with casual audiences and with people who think more critically about inclusion in art institutions.
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+To identify representative individuals to interview, I considered three perspectives: someone who regularly visits museums and can reflect on their experiences as a visitor, someone who has a background or interest in cultural studies or art history, and someone who does not usually think about art or museums but can give feedback on whether my story is accessible to a general audience.  
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+Visual Communication (whether the design and chart choices make the data easy to read)
+
+Storytelling and Understanding (whether the narrative of inclusivity and representation comes through clearly)
+
+Audience Engagement and Reflection (whether people connect with the topic and feel motivated to think about museum practices)
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+| Visual Communication: Design | Are the charts (colors, labels, and layout) easy to read? Did anything feel distracting or confusing? |
+| Visual Communication: Chart Choice | Do the chart types (e.g., gender ratio comparisons, maps of artist origins) help you understand the point? Which felt most effective or least effective? |
+| Storytelling and Understanding: Clarity | Is the main message of the story clear? |
+| Storytelling and Understanding: Context | Was there enough explanation alongside the visuals, or did you feel like you needed more background information? |
+| Audience Engagement and Reflection: Interest | While looking at the visuals, did you stay interested? Were there sections that felt less engaging? |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.

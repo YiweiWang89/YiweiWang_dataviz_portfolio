@@ -33,16 +33,14 @@ Audience Engagement and Reflection (whether people connect with the topic and fe
 | **While looking at the visuals, did you stay interested? Were there sections that felt less engaging?** | The visuals were engaging overall, but juggling multiple themes risked losing the audience’s attention. Try focusing on gender and look for more interesting data that can contribute to the topic.| The combination of data and painting backgrounds was creative and engaging. It encouraged me to keep scrolling. | Yes, I would see the museum differently after knowing this. |
 
 # Identified changes for Part III
-**1. Narrow the Focus****
+**1. Narrow the Focus**
 The current story feels too broad by covering gender, geography, and medium equally. Moving forward, I will make gender imbalance the central theme, as it resonates most strongly with the visuals and feedback. Geography and medium will remain in the project, but only as supporting perspectives that highlight gender differences, rather than as separate focal points.
 
 **2. Explore Additional Datasets**
+
 Since The MoMa collection is the only publc doman dataset that I can use freely, and there are no other museum's collection shared and allowed me to use, I will try to look for datasets that classsmates thought is interesting. This could include:
-
 Information about the recognition of women artists over time (e.g., awards, exhibitions, auction sales).
-
 Visitor engagement data, such as surveys or social media patterns, showing differences in how male vs. female artists are received.
-
 Broader context, such as museum leadership demographics or landmark policy changes that influenced representation.
 
 **3. Refine Visualizations**

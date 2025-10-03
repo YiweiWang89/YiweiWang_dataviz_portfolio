@@ -32,24 +32,35 @@ Audience Engagement and Reflection (whether people connect with the topic and fe
 | **While looking at the visuals, did you stay interested? Were there sections that felt less engaging?** | The visuals were engaging overall, but juggling multiple themes risked losing the audience’s attention. Try focusing on gender and look for more interesting data that can contribute to the topic.| The combination of data and painting backgrounds was creative and engaging. It encouraged me to keep scrolling. | Yes, I would see the museum differently after knowing this. |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+**1. Narrow the Focus****
+The current story feels too broad by covering gender, geography, and medium equally. Moving forward, I will make gender imbalance the central theme, as it resonates most strongly with the visuals and feedback. Geography and medium will remain in the project, but only as supporting perspectives that highlight gender differences, rather than as separate focal points.
 
-Text here!
+**2. Explore Additional Datasets**
+Since The MoMa collection is the only publc doman dataset that I can use freely, and there are no other museum's collection shared and allowed me to use, I will try to look for datasets that classsmates thought is interesting. This could include:
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+Information about the recognition of women artists over time (e.g., awards, exhibitions, auction sales).
 
-> ...include any final thoughts you have here. 
+Visitor engagement data, such as surveys or social media patterns, showing differences in how male vs. female artists are received.
 
-Text here!
+Broader context, such as museum leadership demographics or landmark policy changes that influenced representation.
+
+**3. Refine Visualizations**
+Several charts felt overcrowded or distracting beacuse what they want to see is the the context in shorthand story but not toolpits and lables in chart. I will refine the design by Simplifying layouts (e.g., removing unnecessary labels and reducing visual clutter), choosing chart types that directly reinforce the gender narrative, instead of trying to show everything.
+I will find more dataset to create more charts that contributes to the story.
+
+**4. Strengthen Storytelling**
+The narrative will shift from being purely descriptive to more interpretive and engaging. I will add key historical moments or turning points to show the background information for the charts. I will provide more background context about why gender imbalance matters in museums today, connecting it to broader cultural and social implications. And I will integrate quotes or short stories from women artists, curators, or visitors to make the story more personal and relatable.
 
 ## References
-_List any references you used here._
+MoMa UK. (n.d.). Public domain images for artists. MoMa.co.uk. Retrieved September 30, 2025, from https://www.moma.co.uk/public-domain-images/
+
+Cross, H.-E. (1905–1908). Landscape with stars [Painting]. Rawpixel. Public Domain (CC0). Retrieved September 30, 2025, from https://www.rawpixel.com/image/3305903/free-illustration-image-watercolor-painting-old-paintings-stars
+
+Monet, C. (1875). Madame Monet and her son [Painting]. National Gallery of Art. Public Domain (CC0), via Rawpixel. Retrieved September 30, 2025, from https://www.rawpixel.com/image/547292/monet-woman-painting
+
+Topaz, C. M., Klingenberg, B., Turek, D., Heggeseth, B., Harris, P. E., Blackwood, J. C., … & Zukerman, J. (2019). Diversity of artists in major U.S. museums. PLOS ONE, 14(3), e0212852. https://doi.org/10.1371/journal.pone.0212852
+
+Data Science. (2021, August 3). Data analysis and visualization of ethic diversity & gender distribution in the MoMA art. Medium. https://medium.com/data-science/data-analysis-and-visualization-of-ethic-diversity-gender-distribution-in-the-moma-art-9ce57c1a4f9e
 
 ## AI acknowledgements
 I used AI mainly to get a bit of help with technical refinements, catching small grammar mistakes, and help on instruction of using shorthand.

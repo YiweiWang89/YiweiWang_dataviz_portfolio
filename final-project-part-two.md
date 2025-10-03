@@ -34,20 +34,26 @@ Audience Engagement and Reflection (whether people connect with the topic and fe
 
 # Identified changes for Part III
 **1. Narrow the Focus**
+
 The current story feels too broad by covering gender, geography, and medium equally. Moving forward, I will make gender imbalance the central theme, as it resonates most strongly with the visuals and feedback. Geography and medium will remain in the project, but only as supporting perspectives that highlight gender differences, rather than as separate focal points.
 
 **2. Explore Additional Datasets**
 
 Since The MoMa collection is the only publc doman dataset that I can use freely, and there are no other museum's collection shared and allowed me to use, I will try to look for datasets that classsmates thought is interesting. This could include:
+
 Information about the recognition of women artists over time (e.g., awards, exhibitions, auction sales).
+
 Visitor engagement data, such as surveys or social media patterns, showing differences in how male vs. female artists are received.
+
 Broader context, such as museum leadership demographics or landmark policy changes that influenced representation.
 
 **3. Refine Visualizations**
+
 Several charts felt overcrowded or distracting beacuse what they want to see is the the context in shorthand story but not toolpits and lables in chart. I will refine the design by Simplifying layouts (e.g., removing unnecessary labels and reducing visual clutter), choosing chart types that directly reinforce the gender narrative, instead of trying to show everything.
 I will find more dataset to create more charts that contributes to the story.
 
 **4. Strengthen Storytelling**
+
 The narrative will shift from being purely descriptive to more interpretive and engaging. I will add key historical moments or turning points to show the background information for the charts. I will provide more background context about why gender imbalance matters in museums today, connecting it to broader cultural and social implications. And I will integrate quotes or short stories from women artists, curators, or visitors to make the story more personal and relatable.
 
 ## References

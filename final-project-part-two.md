@@ -3,18 +3,14 @@
 # Wireframes / storyboards
 
 # User research protocol
-
 ## Target audience 
 My intended target audience includes people who interact with art and museums in different ways, since my project focuses on representation in museum collections. I want the story to resonate both with casual audiences and with people who think more critically about inclusion in art institutions.
 
 To identify representative individuals to interview, I considered three perspectives: someone who regularly visits museums and can reflect on their experiences as a visitor, someone who has a background or interest in cultural studies or art history, and someone who does not usually think about art or museums but can give feedback on whether my story is accessible to a general audience.  
 
 ## Interview script
-
 Visual Communication (whether the design and chart choices make the data easy to read)
-
 Storytelling and Understanding (whether the narrative of inclusivity and representation comes through clearly)
-
 Audience Engagement and Reflection (whether people connect with the topic and feel motivated to think about museum practices)
 
 | Goal | Questions to Ask |
@@ -26,16 +22,11 @@ Audience Engagement and Reflection (whether people connect with the topic and fe
 | Audience Engagement and Reflection: Interest | While looking at the visuals, did you stay interested? Were there sections that felt less engaging? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
-
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -51,11 +42,6 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
